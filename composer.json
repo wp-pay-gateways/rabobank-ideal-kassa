@@ -1,7 +1,7 @@
 {
 	"name": "wp-pay-gateways/rabobank-ideal-kassa",
-	"description": "Rabobank - iDEAL Lite driver for the WordPress payment processing library.",
-	"keywords": ["wordpress", "wp", "pay", "rabobank", "ideal", "kassa", "ogone", "gateway", "pronamic"],
+	"description": "[DEPRECATED] Rabobank - iDEAL Lite driver for the WordPress payment processing library.",
+	"keywords": ["deprecated", "wordpress", "wp", "pay", "rabobank", "ideal", "kassa", "ogone", "gateway", "pronamic"],
 	"homepage": "http://www.wp-pay.org/gateways/rabobank-ideal-kassa/",
 	"license": "GPL",
 	"authors": [
