@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Title: Rabobank - Rabo iDEAL Kassa integration
+ * Title: Rabobank - Rabo iDEAL Kassa - Integration
  * Description:
  * Copyright: Copyright (c) 2005 - 2015
  * Company: Pronamic

@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Title: Rabobank - Rabo iDEAL Kassa config factory
+ * Title: Rabobank - Rabo iDEAL Kassa - Config factory
  * Description:
  * Copyright: Copyright (c) 2005 - 2015
  * Company: Pronamic
